@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "William Shakespeare's day of death and birthday are the same",
+    "Shakespeare wrote The Crucible in 1623?",
+    "Shakespeare's plays were performed originally in the Globe Theatre",
+    "Shakespeare invented the word ‘eyeball’",
+    "Shakespeare wrote Arabian Nights",
+    "Shakespeare's wife was twice his age when they married",
+    "Shakespeare invented the word ‘bedroom’",
+    "Shakespeare's native language was actually Early Modern French",
+    "Shakespeare wrote The Phantom of the Opera",
+    "Shakespeare and Hathaway had five children",
+    "Shakespeare's birth date is unconfirmed, but widely thought to be April 23",
+    "Shakespeare sometimes acted in his own plays",
+    "Shakespeare wrote over 30 plays in his lifetime",
+    "Shakespeare remarried after Anne Hathaway’s death",
+    "William Shakespeare’s middle name was ‘George’"
+  ],
+  "correctanswer": [
+    "true",
+    "false",
+    "true",
+    "true",
+    "false",
+    "false",
+    "true",
+    "false",
+    "false",
+    "false",
+    "true",
+    "true",
+    "true",
+    "false",
+    "false"
+  ],
+  "leftimages": [""],
+  "rightimages": [""]
+}

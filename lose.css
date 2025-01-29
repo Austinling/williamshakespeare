@@ -1,0 +1,41 @@
+.losetitle{
+    color:red;
+    position:absolute;
+    left:50%;
+    top:10%;
+    transform: translate(-50%,-50%);
+    font-size:5rem;
+}
+
+.wintitle{
+    color:gold;
+    position:absolute;
+    left:50%;
+    top:10%;
+    transform: translate(-50%,-50%);
+    font-size:5rem;
+}
+
+.video{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    height:300px;
+    width:auto;
+}
+
+.buttonrestart{
+    position:absolute;
+    left:50%;       
+    top:85%;
+    transform: translate(-50%,-50%);
+    height: 100px;
+    width: 300px;
+    background-color: gold;
+    font-size: 2rem;
+};
+
+
+
+
